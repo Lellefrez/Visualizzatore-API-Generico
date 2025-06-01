@@ -45,3 +45,6 @@ Questa applicazione consente di inserire un URL pubblico di un'API REST che rest
 # Link visualizzazione online
 
 https://visualizzatore-api-generico.vercel.app/
+
+non ho inserito il file vercel.json in quanto non utilizzando React Router, non avendo pagine multiple e non essendoci percordi da gestire
+Vercel sa gestire correttamente senza bisogno di riscritture

@@ -43,3 +43,5 @@ Questa applicazione consente di inserire un URL pubblico di un'API REST che rest
    npm run dev
 
 # Link visualizzazione online
+
+https://visualizzatore-api-generico.vercel.app/

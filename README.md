@@ -31,7 +31,7 @@ Questa applicazione consente di inserire un URL pubblico di un'API REST che rest
 # Installazione e uso
 
 1. Clona il repository
-   git clone
+   git clone https://github.com/Lellefrez/Visualizzatore-API-Generico.git
 
 2. Entra nella cartella
    cd visualizzatore-api
